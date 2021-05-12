@@ -4,11 +4,12 @@ here is my README
 
 THis is all *really* **interesting**
 
-[link to something]
+[link to something](www.google.com)
 
 this is `monospace `code`
 
 ```
-import nupu at np
+import numpy at np
 #calculate a mean
+print(np.nanmean([1,2,3,4]))
 ```
